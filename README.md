@@ -1,6 +1,6 @@
 # maze explorer
 
-Finds the optimal solution to ANY maze, well, not any... our explorer as circuitous tendencies.
+Finds the optimal solution to ANY maze, well, not any... our explorer has circuitous tendencies.
 
 Please help him optimize his search & become a better more efficient explorer!
 
